@@ -1,1 +1,1 @@
-# Notepad-App
+# Notepad App (Only Android for now)
